@@ -1,5 +1,5 @@
 # MediaManager-MediaServerMongo
-It's one of the part, that i have created (somewhere, didn't create) on c# course The architecture in the diagrams, in this repository.  It's media server for media files on MongoDb with custom cahche. And Media Manager to manage user request to Mongo part or SQL part
+It's one of the part, that I have created on Veam AcedemyCc# course on 20.09.2017-15.12.2017. The architecture in the diagrams.  It's media server for media files on MongoDb with custom cache. Media Manager manage user request to Mongo part or SQL part.
 
 ![ManagerMediaServer] https://github.com/YuriyAksenov/MediaManager-MediaServerMongo/blob/master/ManagerServer.png
 
